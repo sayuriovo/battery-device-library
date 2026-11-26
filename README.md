@@ -6,7 +6,7 @@
 
 ## 中文
 
-这是 [BatterySenti](https://github.com/sayuriovo) 的社区设备库。BatterySenti 是一个 Windows 托盘小程序，显示无线鼠标、耳机、键盘的电量。
+这是 [BatterySenti](https://github.com/sayuriovo/BatterySenti) 的社区设备库。BatterySenti 是一个 Windows 托盘小程序，显示无线鼠标、耳机、键盘的电量。
 
 程序内置支持的设备不需要这里。这里收集的是**程序还不认识的设备**：别人用抓包整理出"发哪几个字节、电量在回复第几位"，提交到这里以后，所有用户点一下"更新设备库"就能用，不用等程序发新版本。
 
@@ -42,7 +42,7 @@ BatterySenti 下载这个库时会：
 
 ## English
 
-This is the community device library for [BatterySenti](https://github.com/sayuriovo), a Windows tray app that shows the battery level of wireless mice, headsets and keyboards.
+This is the community device library for [BatterySenti](https://github.com/sayuriovo/BatterySenti), a Windows tray app that shows the battery level of wireless mice, headsets and keyboards.
 
 Devices the app already supports don't need to be here. This library collects **devices the app doesn't know yet**: someone captures the USB traffic, works out which bytes to send and where the battery value sits in the reply, and submits it here. Every user can then click "Update library" in the app — no new app release needed.
 
